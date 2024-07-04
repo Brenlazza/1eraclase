@@ -1,0 +1,61 @@
+body{
+    
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background-color: #eef7ff;
+}
+
+header{
+    background-color: #4D869C;
+    color: #FFF;
+}
+
+nav{
+background-color: #7AB2B2;
+color: #FFF;
+
+width: 100%;
+
+}
+
+nav ul{
+list-style: none;
+
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 5px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #FFF;
+    padding: 10px;
+}
+
+nav ul li:hover{
+    background-color: #4D869C;
+  
+}
+
+
+
+
+
+p{
+
+
+}
+
+footer{
+
+    background-color:#CDE8E5 ;
+    text-align: center;
+}
+
+p{
+    font-family: "Playwrite NG Modern"
+}
+
+
+
